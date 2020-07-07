@@ -19,8 +19,8 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 3. Download anaconda or miniconda.
 4. Create a new conda environment: `conda create --name deep-learning python=3`
 5. Enter your new environment:
-  * Mac/Linux: `>> source activate deep-learning`
-  * Windows: `>> activate deep-learning`
+        * Mac/Linux: `>> source activate deep-learning`
+        * Windows: `>> activate deep-learning`
 6. Ensure you have `numpy`, `matplotlib`, `pandas`, and `jupyter notebook` installed by doing the following:
 `conda install numpy matplotlib pandas jupyter notebook`
 7. Run the following to open up the notebook server:
