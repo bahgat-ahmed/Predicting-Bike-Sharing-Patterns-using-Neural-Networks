@@ -1,4 +1,4 @@
-# Predicting-Bike-Sharing-Patterns-using-Neural-Networks
+# Predicting Bike-Sharing Patterns using Neural Networks
 
 This is one of the projects I've built in Udacity **Deep Learning Nanodegree**.
 
