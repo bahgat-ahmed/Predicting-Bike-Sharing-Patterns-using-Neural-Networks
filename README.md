@@ -1,4 +1,4 @@
-# Predicting Bike-Sharing Patterns using Feed-forward Neural Network
+# Predicting Bike-Sharing Patterns using Feed-forward Neural Networks
 
 This is one of the projects I've built in Udacity **Deep Learning Nanodegree**.
 
